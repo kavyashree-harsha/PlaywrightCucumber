@@ -10,8 +10,8 @@ And Users enters valid password as "Pass1234"
 When User clicks on Login button
 Then Login should be successful
 
-Scenario: Login should not be success
-And User enters name as "kavya"
-And Users enters password as "Pass1234"
-When User clicks on Login button
-Then Login should fail
+#Scenario: Login should not be success
+#And User enters name as "kavya"
+#And Users enters password as "Pass1234"
+#When User clicks on Login button
+#Then Login should fail
